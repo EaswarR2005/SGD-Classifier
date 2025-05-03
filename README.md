@@ -70,8 +70,7 @@ print(classification_report1)
 
 ### Classification Report :
 
-![ex7_op4](https://github.com/user-attachments/assets/f07b2361-d171-4873-a215-1fb44ed936f0)
-
+![image](https://github.com/user-attachments/assets/7367052f-9a80-443e-be04-b28f73d475ad)
 
 
 ## Result:
